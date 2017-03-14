@@ -4,6 +4,7 @@
   "description": "A rule based weather bot",
   "main": "app.js",
   "scripts": {
+    "start": "nodemon app",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
@@ -13,5 +14,8 @@
     "moment": "2.13.0",
     "xregexp": "3.1.1",
     "yql": "1.0.2"
+  },
+  "devDependencies": {
+    "nodemon": "1.11.0"
   }
 }

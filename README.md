@@ -6,7 +6,7 @@ A simple rules based chatbot, that can tell you the weather and simple things li
 
 ```
 npm install
-nodemon
+npm start
 ```
 
 # Example commands
